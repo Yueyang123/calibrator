@@ -1,0 +1,1 @@
+/usr/bin/c++    -L/home/swann/SDK/X86/SDK/opencv/install/lib -lpthread -L/lib CMakeFiles/opencv_point_det.dir/source/opencv_point_det.cpp.o  -o ../bin/opencv_point_det  -lopencv_world 

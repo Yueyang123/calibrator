@@ -1,0 +1,1 @@
+/usr/bin/c++    -L/home/swann/SDK/X86/SDK/opencv/install/lib -lpthread -L/lib CMakeFiles/opencv_calibrate_outer.dir/source/opencv_calibrate_outer.cpp.o  -o ../bin/opencv_calibrate_outer  -lopencv_world 
